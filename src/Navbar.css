@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  background-color: darkgray;
+  justify-content: space-around;
+  margin: -8px;
+}
+
+li {
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+  width: 100%;
+}
+
+ul {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
